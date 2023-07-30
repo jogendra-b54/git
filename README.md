@@ -66,3 +66,7 @@ Git and Linux are like oceans, infinite things are there to learn. Both of them 
 A merge conflict occurs when a version of a file has been submitted that is newer than the version of the file you have started to base your changes on. In this blog, we look at what merge conflicts are, how they happen in Git, and how you can avoid them with a few simple tips to streamline your development
 
 ```
+### GIT MERGET CONFILITTT: 
+```
+This is an important interview question
+```
